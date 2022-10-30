@@ -1,2 +1,6 @@
 # pairplot-upper-triangle
-sample for using pairplot and an upper triangle
+
+Samples for using PairPlot and PairGrid
+
+I guess a step by step explanation may be useful ))
+
